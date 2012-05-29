@@ -1,0 +1,25 @@
+h1. MindCricket : Ball Predictor game developed in Yii Framework
+
+*Author:* "Mithun Satheesh"
+*version:* "1.0"
+
+h2. About
+
+MindCricket is a game in which models a t20 cricket game. The user is given a randomly generated terget to chase on by the computer. He gets 120 balls to get to the target and can play shots by selecting the scores in 0,1,2,3,4 and 6.
+The computer makes a prediction of the shot played by the user. If the predisted shot matches the shot played by the user, the user is given out. User has got 10 wickets in hand to chase down the target. 
+
+h2. Technology Used
+Yii Framework and Jquery.
+
+h2. Browser Support
+
+Tested on IE6, Firefox 3.0 + , Chrome & Safari 
+
+h2. Use
+
+Setup yii in your server and set the framework folder path in index.php file located in root folder of MindCricket. Then just point to the MindCricket folder and the game begins.
+
+
+h2. Changelog
+
+*MindCricket 1.0
